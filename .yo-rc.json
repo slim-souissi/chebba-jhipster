@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "chebba",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "NDIyYmM0MmY3MDVlMzFhYWMwMjlhZTczOGVkNzJkNDk2MzQ2ZDRiMzc3OGE0NDY1OGU3YjkzNDcwYTAwNjcwYTYzZDI5OWM1NDcxNjIwYjY5Yjk4OGFiNTAwOWViNjBlYTBjY2E5ZWZkYWVkNzg0YWM5NTc4ZGVhN2U4NjczOTY=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "slim-souissi",
+  "repository-name": "chebba-jhipster"
+}
